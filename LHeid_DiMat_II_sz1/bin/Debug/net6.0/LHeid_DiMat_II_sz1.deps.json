@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LHeid_DiMat_II_sz1/1.0.0": {
+        "runtime": {
+          "LHeid_DiMat_II_sz1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LHeid_DiMat_II_sz1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
